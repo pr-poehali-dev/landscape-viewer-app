@@ -63,6 +63,54 @@ const landscapes: Landscape[] = [
     type: 'forest',
     season: 'autumn',
     time: 'day'
+  },
+  {
+    id: 7,
+    title: 'Золотые поля',
+    image: 'https://cdn.poehali.dev/projects/1f4bcdc3-daf7-47a3-aa36-2a622209f22b/files/7b275330-2b0e-4323-87f2-37d712a19d7f.jpg',
+    type: 'fields',
+    season: 'summer',
+    time: 'sunset'
+  },
+  {
+    id: 8,
+    title: 'Северное сияние',
+    image: 'https://cdn.poehali.dev/projects/1f4bcdc3-daf7-47a3-aa36-2a622209f22b/files/436cd12d-c10a-4d30-9234-29ab0e264cb6.jpg',
+    type: 'mountains',
+    season: 'winter',
+    time: 'night'
+  },
+  {
+    id: 9,
+    title: 'Весенний луг',
+    image: 'https://cdn.poehali.dev/projects/1f4bcdc3-daf7-47a3-aa36-2a622209f22b/files/b295a15f-15fe-411e-84f2-f1624d49e926.jpg',
+    type: 'fields',
+    season: 'spring',
+    time: 'day'
+  },
+  {
+    id: 10,
+    title: 'Осенняя тропа',
+    image: 'https://cdn.poehali.dev/projects/1f4bcdc3-daf7-47a3-aa36-2a622209f22b/files/9fb84bdf-03f9-4594-b134-65c55cd47743.jpg',
+    type: 'forest',
+    season: 'autumn',
+    time: 'sunrise'
+  },
+  {
+    id: 11,
+    title: 'Тропический рай',
+    image: 'https://cdn.poehali.dev/projects/1f4bcdc3-daf7-47a3-aa36-2a622209f22b/files/59e58988-8ba2-4799-8223-6ca7880e0b1d.jpg',
+    type: 'sea',
+    season: 'summer',
+    time: 'day'
+  },
+  {
+    id: 12,
+    title: 'Вечерний океан',
+    image: 'https://cdn.poehali.dev/projects/1f4bcdc3-daf7-47a3-aa36-2a622209f22b/files/8e1dc57c-c564-433f-8594-308c5366a836.jpg',
+    type: 'sea',
+    season: 'spring',
+    time: 'sunset'
   }
 ];
 
